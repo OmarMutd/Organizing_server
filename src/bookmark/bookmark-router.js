@@ -53,7 +53,7 @@ bookmarkRouter
 });
 
 bookmarkRouter
-.route("/bookmark:id")
+.route("/bookmark/:id")
 .get((req, res) => {
 
     const { id } = req.params;
