@@ -1,0 +1,20 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Content is required","level":"error"}
+{"message":"Content is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Bookmark with id fe26c861-8523-4bfa-b725-6ba30bb8e2ab created","level":"info"}
+{"message":"Bookmark with id 2aeecaf4-8a91-48de-9918-215416b65e48 created","level":"info"}
+{"message":"Bookmark with id 563a17ca-fbe2-45d0-b090-fd6993204a97 created","level":"info"}
+{"message":"Bookmark with id 507f841b-376e-44f3-9663-5dc1a0518fad created","level":"info"}
+{"message":"Bookmark with id 428a50f1-140c-4175-9675-716914a4a6e7 created","level":"info"}
+{"message":"Bookmark with id :2 not found.","level":"error"}
+{"message":"Bookmark with id :id not found.","level":"error"}
+{"message":"Bookmark with id :2 not found.","level":"error"}
+{"message":"Bookmark with id 507f841b-376e-44f3-9663-5dc1a0518fa not found.","level":"error"}
+{"message":"Bookmark with id 507f841b-376e-44f3-9663-5dc1a0518fad not found.","level":"error"}
+{"message":"Bookmark with id s not found.","level":"error"}
+{"message":"Book with id 4 deleted.","level":"info"}
